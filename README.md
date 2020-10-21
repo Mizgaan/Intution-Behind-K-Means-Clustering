@@ -1,1 +1,1 @@
-# Intution-Of-K-Means-Clustering
+# Intution behind K-Means Clustering
